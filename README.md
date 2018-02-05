@@ -1,4 +1,4 @@
-# README #
+- This is a fork of the new LCD library by Francisco Malpartida (https://bitbucket.org/fmalpartida/new-liquidcrystal)
 
 ## Introduction ##
 
